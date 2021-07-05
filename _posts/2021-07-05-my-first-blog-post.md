@@ -1,3 +1,8 @@
+---
+title: "Quick setup — if you’ve done this kind of thing before"
+date: 2021-07-05
+---
+
 echo "# pdcs-cca.github.io" >> README.md
 git init
 git add README.md
